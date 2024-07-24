@@ -1,67 +1,69 @@
-ES6 Basics
+# ES6 Basics
 
 This project focuses on mastering ES6 (ECMAScript 2015) concepts in JavaScript.
-Concepts
+
+# Concepts
 
 This project covers the following key concepts:
 
-+ JavaScript programming.
+	+ JavaScript programming.
 
-+ Software Linter.
+	+ Software Linter.
 
-Tasks 📃.
-0. Const or let?
+# Tasks 📃.
 
-    0-constants.js: Function that modify taskFirst to instantiate variables using const and let.
+# 0. Const or let?
 
-1. Block Scope
+   + <u>[0-constants.js]()</u>: Function that modify taskFirst to instantiate variables using const and let.
 
-    1-block-scoped.js: Function that modify the variables inside the function taskBlock.
+# 1. Block Scope
 
-2. Arrow functions
+   + <u>[1-block-scoped.js]()</u>: Function that modify the variables inside the function taskBlock.
 
-    2-arrow.js: Function file that rewrite the standard function to use ES6’s arrow syntax.
+# 2. Arrow functions
 
-3. Parameter defaults
+   + <u>[ 2-arrow.js]()</u>: Function file that rewrite the standard function to use ES6’s arrow syntax.
 
-    3-default-parameter.js: Condense the internals of the following function to 1 line - without changing the name of each function/variable.
+# 3. Parameter defaults
 
-4. Rest parameter syntax for functions
+   + <u>[3-default-parameter.js]()</u>: Condense the internals of the following function to 1 line - without changing the name of each function/variable.
 
-    4-rest-parameter.js: Modify the function to return the number of arguments passed to it using the rest parameter syntax.
+# 4. Rest parameter syntax for functions
 
-5. The wonders of spread syntax
+   + <u>[4-rest-parameter.js]()</u>: Modify the function to return the number of arguments passed to it using the rest parameter syntax.
 
-    5-spread-operator.js: Function file that concatenate 2 arrays and each character of a string.
+# 5. The wonders of spread syntax
 
-6. Take advantage of template literals
+   + <u>[5-spread-operator.js]()</u>: Function file that concatenate 2 arrays and each character of a string.
 
-    6-string-interpolation.js: Function file that rewrite the return statement to use a template literal.
+# 6. Take advantage of template literals
 
-7. Object property value shorthand syntax
+   + <u>[ 6-string-interpolation.js()</u>: Function file that rewrite the return statement to use a template literal.
 
-    7-getBudgetObject.js: Function file that uses the keyname functionality.
+# 7. Object property value shorthand syntax
 
-8. No need to create empty objects before adding in properties
+   + <u>[7-getBudgetObject.js]()</u>: Function file that uses the keyname functionality.
 
-    8-getBudgetCurrentYear.js: Rewrites the getBudgetForCurrentYear function to use ES6 computed property.
+# 8. No need to create empty objects before adding in properties
 
-9. ES6 method properties
+   + <u>[8-getBudgetCurrentYear.js]()</u>: Rewrites the getBudgetForCurrentYear function to use ES6 computed property.
 
-    9-getFullBudget.js: Rewrites getFullBudgetObject to use ES6 method properties in the fullBudget object.
+# 9. ES6 method properties
 
-10. For...of Loops
+   + <u>[9-getFullBudget.js]()</u>: Rewrites getFullBudgetObject to use ES6 method properties in the fullBudget object.
 
-    10-loops.js: Rewrites the function appendToEachArrayValue to use ES6’s for...of operator.
+# 10. For...of Loops
 
-11. Iterator
+   + <u>[10-loops.js]()</u>: Rewrites the function appendToEachArrayValue to use ES6’s for...of operator.
 
-    11-createEmployeesObject.js: Function named createEmployeesObject that will receive two arguments.
+# 11. Iterator
 
-        departmentName (String).
+   + <u>[11-createEmployeesObject.js]()</u>: Function named createEmployeesObject that will receive two arguments.
 
-        employees (Array of Strings).
+	+ departmentName (String).
 
-12. Let's create a report object
+	+ employees (Array of Strings).
 
-    12-createReportObject.js: Function that writes createReportObject whose parameter, employeesList, is the return value of the previous function createEmployeesObject.
+# 12. Let's create a report object
+
+    + <u>[12-createReportObject.js]()</u>: Function that writes createReportObject whose parameter, employeesList, is the return value of the previous function createEmployeesObject.
