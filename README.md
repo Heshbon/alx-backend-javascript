@@ -1,4 +1,4 @@
-# ES6 Basics
+#  ES6 Basics
 
 This project focuses on mastering ES6 (ECMAScript 2015) concepts in JavaScript.
 
@@ -60,10 +60,10 @@ This project covers the following key concepts:
 
    + <u>[11-createEmployeesObject.js]()</u>: Function named createEmployeesObject that will receive two arguments.
 
-	+ departmentName (String).
+	+ departmentName(String).
 
-	+ employees (Array of Strings).
+	+ employees(Array of Strings).
 
 # 12. Let's create a report object
 
-    + <u>[12-createReportObject.js]()</u>: Function that writes createReportObject whose parameter, employeesList, is the return value of the previous function createEmployeesObject.
+   + <u>[12-createReportObject.js]()</u>: Function that writes createReportObject whose parameter, employeesList, is the return value of the previous function createEmployeesObject.
