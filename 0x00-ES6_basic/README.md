@@ -70,4 +70,4 @@ This project covers the following key concepts:
 
 #  14. Iterate through object
 
-  + <u>[101-iterateThroughObject.js](https://github.com/Heshbon/alx-backend-javascript/blob/master/0x00-ES6_basic/101-iterateThroughObject.js]</u>: Function file that return every employee name in a string, separated by |.
+  + <u>[101-iterateThroughObject.js](https://github.com/Heshbon/alx-backend-javascript/blob/master/0x00-ES6_basic/101-iterateThroughObject.js)</u>: Function file that return every employee name in a string, separated by |.
