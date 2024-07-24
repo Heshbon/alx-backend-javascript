@@ -38,7 +38,7 @@ This project covers the following key concepts:
 
 # 6. Take advantage of template literals
 
-   + <u>[ 6-string-interpolation.js(https://github.com/Heshbon/alx-backend-javascript/blob/master/0x00-ES6_basic/6-string-interpolation.js)</u>: Function file that rewrite the return statement to use a template literal.
+   + <u>[ 6-string-interpolation.js](https://github.com/Heshbon/alx-backend-javascript/blob/master/0x00-ES6_basic/6-string-interpolation.js)</u>: Function file that rewrite the return statement to use a template literal.
 
 # 7. Object property value shorthand syntax
 
