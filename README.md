@@ -60,10 +60,6 @@ This project covers the following key concepts:
 
    + <u>[11-createEmployeesObject.js]()</u>: Function named createEmployeesObject that will receive two arguments.
 
-	+ departmentName(String).
-
-	+ employees(Array of Strings).
-
 # 12. Let's create a report object
 
    + <u>[12-createReportObject.js]()</u>: Function that writes createReportObject whose parameter, employeesList, is the return value of the previous function createEmployeesObject.
