@@ -1,4 +1,4 @@
-# alx-backend-javascript
+# Alx-backend-javascript
 
 This repository contains projects developed for the ALX Africa backend JavaScript track. Through these projects, I've deepened my understanding of backend development, focusing on JavaScript and related technologies. Key areas to cover includes building APIs, handling databases, implementing authentication systems, and deploying applications. This repository showcases my proficiency in backend development and demonstrates practical skills in creating robust web applications using JavaScript. The particular task projetcs includes:
 
