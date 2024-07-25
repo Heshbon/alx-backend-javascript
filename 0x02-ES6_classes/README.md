@@ -6,15 +6,15 @@ This project focuses on exploring ES6 classes in JavaScript, a key feature intro
 
 # 0. You used to attend a place like this at some point
 
-  + <u>[0-classroom.js]()</u>: Function file that implement a class named ClassRoom.
+  + <u>[0-classroom.js](https://github.com/Heshbon/alx-backend-javascript/blob/master/0x02-ES6_classes/0-classroom.js)</u>: Function file that implement a class named ClassRoom.
 
-#  1. Let's make some classrooms
+# 1. Let's make some classrooms
 
-  + <u>[1-make_classrooms.js]()</u>: Function file that import the ClassRoom class from 0-classroom.js.
+  + <u>[1-make_classrooms.js](https://github.com/Heshbon/alx-backend-javascript/blob/master/0x02-ES6_classes/1-make_classrooms.js)</u>: Function file that import the ClassRoom class from 0-classroom.js.
 
-#  2. A Course, Getters, and Setters
+# 2. A Course, Getters, and Setters
 
-  + <u>[2-hbtn_course.js]()</u>: Function file that implement a class named HolbertonCourse.
+  + <u>[2-hbtn_course.js](https://github.com/Heshbon/alx-backend-javascript/blob/master/0x02-ES6_classes/2-hbtn_course.js)</u>: Function file that implement a class named HolbertonCourse.
 
   + Constructor attributes:
 
@@ -26,9 +26,9 @@ This project focuses on exploring ES6 classes in JavaScript, a key feature intro
 
 # 3. Methods, static methods, computed methods names..... MONEY
 
-  + <u>[3-currency.js]()</u>: Function file that implement a class named Currency.
+  + <u>[3-currency.js](https://github.com/Heshbon/alx-backend-javascript/blob/master/0x02-ES6_classes/3-currency.js)</u>: Function file that implement a class named Currency.
 
-  + - Constructor attributes:
+  + Constructor attributes:
 
 	+ code (String).
 
@@ -36,7 +36,7 @@ This project focuses on exploring ES6 classes in JavaScript, a key feature intro
 
 # 4. Pricing
 
-  + <u>[4-pricing.js]()</u>: Program file that import the class Currency from 3-currency.js and implement a class named Pricing.
+  + <u>[4-pricing.js](https://github.com/Heshbon/alx-backend-javascript/blob/master/0x02-ES6_classes/4-pricing.js)</u>: Program file that import the class Currency from 3-currency.js and implement a class named Pricing.
 
   + Constructor attributes:
 
@@ -46,11 +46,11 @@ This project focuses on exploring ES6 classes in JavaScript, a key feature intro
 
 # 5. A Building
 
-  + <u>[5-building.js]()</u>: Program file that implement a class named Building.
+   + <u>[5-building.js](https://github.com/Heshbon/alx-backend-javascript/blob/master/0x02-ES6_classes/5-building.js)</u>: Program file that implement a class named Building.
 
-#  6. Inheritance
+# 6. Inheritance
 
-  + <u>[6-sky_high.js]()</u>: Program file that import Building from 5-building.js and implement a class named SkyHighBuilding that extends from Building.
+  + <u>[6-sky_high.js](https://github.com/Heshbon/alx-backend-javascript/blob/master/0x02-ES6_classes/6-sky_high.js)</u>: Program file that import Building from 5-building.js and implement a class named SkyHighBuilding that extends from Building.
 
   + Constructor attributes:
 
@@ -60,19 +60,31 @@ This project focuses on exploring ES6 classes in JavaScript, a key feature intro
 
 # 7. Airport
 
-  + <u>[7-airport.js]()</u>: Program file that implement a class named Airport.
+  + <u>[7-airport.js](https://github.com/Heshbon/alx-backend-javascript/blob/master/0x02-ES6_classes/7-airport.js)</u>: Program file that implement a class named Airport.
 
-#  8. Primitive - Holberton Class
+# 8. Primitive - Holberton Class
 
-  + <u>[8-hbtn_class.js]()</u>: Program file that implement a class named HolbertonClass.
+  + <u>[8-hbtn_class.js](https://github.com/Heshbon/alx-backend-javascript/blob/master/0x02-ES6_classes/8-hbtn_class.js)</u>: Program file that implement a class named HolbertonClass.
 
 # 9. Hoisting
 
-  + <u>[9-hoisting.js]()</u>: Program file that fixes the provided code.
+  + <u>[9-hoisting.js](https://github.com/Heshbon/alx-backend-javascript/blob/master/0x02-ES6_classes/9-hoisting.js)</u>: Program file that fixes the provided code.
 
 # 10. Vroom
 
-  + <u>[10-car.js]()</u>: Function file that implement a class named Car.
+  + <u>[10-car.js](https://github.com/Heshbon/alx-backend-javascript/blob/master/0x02-ES6_classes/10-car.js)</u>: Function file that implement a class named Car.
+
+  + Constructor attributes:
+
+	+  brand (String).
+
+	+ motor (String).
+
+	+ color (String).
+
+#  11. EVCar
+
+  + <u>[100-evcar.js](https://github.com/Heshbon/alx-backend-javascript/blob/master/0x02-ES6_classes/100-evcar.js)</u>: Program file that import Car from 10-car.js and implement a class named EVCar that extends the Car class.
 
   + Constructor attributes:
 
@@ -81,3 +93,5 @@ This project focuses on exploring ES6 classes in JavaScript, a key feature intro
 	+ motor (String).
 
 	+ color (String).
+
+	+ range (String).
