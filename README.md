@@ -8,6 +8,8 @@ This repository contains projects developed for the ALX Africa backend JavaScrip
 
   + <u>[0x02-ES6_classes](https://github.com/Heshbon/alx-backend-javascript/tree/master/0x02-ES6_classes)</u>.
 
+  + <u>[0x03-ES6_data_manipulation](https://github.com/Heshbon/alx-backend-javascript/tree/master/0x03-ES6_data_manipulation)</u>.
+
 
 ## Author ✒️
 
