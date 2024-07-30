@@ -1,8 +1,8 @@
-const getListStudentsIds = (array) => {
-	if (!Array.isArray(array)) {
-		return [];
-	}
-	return array.map((student) => student.id);
+const getListStudentIds = (array) => {
+  if (!Array.isArray(array)) {
+    return [];
+  }
+  return array.map((student) => student.id);
 };
 
-export default getListStudentsIds;
+export default getListStudentIds;
