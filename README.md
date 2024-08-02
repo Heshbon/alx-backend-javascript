@@ -10,6 +10,8 @@ This repository contains projects developed for the ALX Africa backend JavaScrip
 
   + <u>[0x03-ES6_data_manipulation](https://github.com/Heshbon/alx-backend-javascript/tree/master/0x03-ES6_data_manipulation)</u>.
 
+  + <u>[0x04-TypeScript](https://github.com/Heshbon/alx-backend-javascript/tree/master/0x04-TypeScript)</u>.
+
 
 ## Author ✒️
 
