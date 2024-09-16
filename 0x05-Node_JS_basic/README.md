@@ -6,11 +6,11 @@ This project introduces the basics of Node.js and its ecosystem, focusing on fou
 
 # 0. Executing basic javascript with Node JS
 
-  + <u>[0-console.js]()</u>: A function named displayMessage that prints in STDOUT the string argument.
+  + <u>[0-console.js](https://github.com/Heshbon/alx-backend-javascript/blob/master/0x05-Node_JS_basic/0-console.js)</u>: A function named displayMessage that prints in STDOUT the string argument.
 
 # 1. Using Process stdin
 
-  + <u>[1-stdin.js]()</u>: A program named 1-stdin.js that will be executed through command line.
+  + <u>[1-stdin.js](https://github.com/Heshbon/alx-backend-javascript/blob/master/0x05-Node_JS_basic/1-stdin.js)</u>: A program named 1-stdin.js that will be executed through command line.
 
 # 2. Reading a file synchronously with Node JS
 
