@@ -2,7 +2,7 @@ import AppController from '../controllers/AppController';
 import StudentsController from '../controllers/StudentsController';
 
 /**
- * Connect routes to the appropriate handler in the
+ * Connect routes to the appropriate handler
  * @param {Express} app The Express application.
  * @throws {Error} Throws an error if the file cannot be loaded
  */
