@@ -12,6 +12,10 @@ This repository contains projects developed for the ALX Africa backend JavaScrip
 
   + <u>[0x04-TypeScript](https://github.com/Heshbon/alx-backend-javascript/tree/master/0x04-TypeScript)</u>.
 
+  + <u>[0x05-Node_JS_basic](https://github.com/Heshbon/alx-backend-javascript/tree/master/0x05-Node_JS_basic)</u>.
+
+  + <u>[0x06-unittests_in_js](https://github.com/Heshbon/alx-backend-javascript/tree/master/0x06-unittests_in_js)</u>.
+
 
 ## Author ✒️
 
